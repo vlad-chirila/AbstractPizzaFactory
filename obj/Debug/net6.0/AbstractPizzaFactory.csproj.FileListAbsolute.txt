@@ -1,0 +1,15 @@
+D:\Repos\AbstractPizzaFactory\bin\Debug\net6.0\AbstractPizzaFactory.exe
+D:\Repos\AbstractPizzaFactory\bin\Debug\net6.0\AbstractPizzaFactory.deps.json
+D:\Repos\AbstractPizzaFactory\bin\Debug\net6.0\AbstractPizzaFactory.runtimeconfig.json
+D:\Repos\AbstractPizzaFactory\bin\Debug\net6.0\AbstractPizzaFactory.dll
+D:\Repos\AbstractPizzaFactory\bin\Debug\net6.0\ref\AbstractPizzaFactory.dll
+D:\Repos\AbstractPizzaFactory\bin\Debug\net6.0\AbstractPizzaFactory.pdb
+D:\Repos\AbstractPizzaFactory\obj\Debug\net6.0\AbstractPizzaFactory.csproj.AssemblyReference.cache
+D:\Repos\AbstractPizzaFactory\obj\Debug\net6.0\AbstractPizzaFactory.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repos\AbstractPizzaFactory\obj\Debug\net6.0\AbstractPizzaFactory.AssemblyInfoInputs.cache
+D:\Repos\AbstractPizzaFactory\obj\Debug\net6.0\AbstractPizzaFactory.AssemblyInfo.cs
+D:\Repos\AbstractPizzaFactory\obj\Debug\net6.0\AbstractPizzaFactory.csproj.CoreCompileInputs.cache
+D:\Repos\AbstractPizzaFactory\obj\Debug\net6.0\AbstractPizzaFactory.dll
+D:\Repos\AbstractPizzaFactory\obj\Debug\net6.0\ref\AbstractPizzaFactory.dll
+D:\Repos\AbstractPizzaFactory\obj\Debug\net6.0\AbstractPizzaFactory.pdb
+D:\Repos\AbstractPizzaFactory\obj\Debug\net6.0\AbstractPizzaFactory.genruntimeconfig.cache
